@@ -1,1 +1,3 @@
 descripcion de las configuraciones necesarias para que su aplicacion se ejecute
+
+Necesitas utilizar MySQL
