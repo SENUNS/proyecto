@@ -1,0 +1,8 @@
+SISTEMA DE VENTAS
+
+Lenguaje de programacion: java
+Gestor de base de datos: MySql
+Nombre de DB: Chimbotito
+
+Librerias:
+-Apoche POI (version )
